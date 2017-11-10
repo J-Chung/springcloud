@@ -1,0 +1,27 @@
+#spring:
+#  application:
+#    name: eureka
+#  config:
+#    name: config-server
+#  cloud:
+#    config:
+#      label: master
+#      profile: dev
+#      uri: http://localhost:8888
+#      discovery:
+#        enabled: true
+#        service-id: config-server
+
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+
+
+

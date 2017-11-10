@@ -1,10 +1,10 @@
 # springcloud
 
-####参考博客：http://blog.csdn.net/mlks_2008/article/details/18988301
+* 参考博客： * http://blog.csdn.net/mlks_2008/article/details/18988301
 
 - - -
 
-*已完成：
+* 已完成： *
 
 1. 服务的注册与发现（Eureka）
 2. 服务消费者（rest+ribbon）
@@ -16,7 +16,7 @@
 
 - - -
 
-*博客目录：
+* 博客目录： *
 
 - 史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）
 - 史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）
